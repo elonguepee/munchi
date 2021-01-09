@@ -1,6 +1,8 @@
 # Munchi
 
-Hello! Welcome to the Munchi Project! An open source restaurant managment project by [Erik Longuepee](https://github.com/ecron11).
+Hello! Welcome to the monorepo for the Munchi project. An open source restaurant managment project by [Erik Longuepee](https://github.com/ecron11).
+
+There is a project board here for organization of tasks and issues: [Project](https://github.com/ecron11/munchi/projects/1)
 
 ## Code
 
@@ -12,6 +14,10 @@ Backend - Node.js, Express, Mongodb |[Repo](https://github.com/ecron11/munchi-se
 ## Modules
 
 ### Pantry - _in progress_
-An kitchen inventory management system
+A kitchen inventory management system
 
-### Recipes - _Planned_
+### Recipes - _planned_
+A recipes panel page where recipes can be added that dynamically update inventory.
+
+### POS
+An integrated point of sale system
