@@ -1,0 +1,4 @@
+#ignore backend files
+Munchi-Server/
+#front end files
+munchi-frontend/
