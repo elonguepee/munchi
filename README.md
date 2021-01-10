@@ -19,5 +19,12 @@ A kitchen inventory management system
 ### Recipes - _planned_
 A recipes panel page where recipes can be added that dynamically update inventory.
 
+### Shopping lists
+A shopping list generator that updates inventory and can be generated based on recipes.
+
+### Kitchen Display system
+A kitchen display that is integrated with inventories
+
 ### POS
 An integrated point of sale system
+
