@@ -8,7 +8,7 @@ There is a project board here for organization of tasks and issues: [Project](ht
 
 Monorepo/Documentation | [Repo](https://github.com/ecron11/munchi)
 -----------------------|------------------------------------------
-Web Frontend - React | [Repo]
+Web Frontend - React | [Repo](https://github.com/ecron11/Munchi-Frontend)
 Backend - Node.js, Express, Mongodb |[Repo](https://github.com/ecron11/munchi-server)
 
 ## Modules
